@@ -20,7 +20,8 @@ A full-stack Task Management application built with Laravel 11 (RESTful API) and
 
 ## 📸 Screenshots
 
-> Coming soon... (Add your screenshots here after deployment)
+![Image 1](img/img1.png)
+![Image 2](img/img2.png)
 
 ## 🛠️ Tech Stack
 
@@ -193,12 +194,5 @@ This project is open-source and available under the [MIT License](LICENSE).
 - [Tailwind CSS](https://tailwindcss.com) - CSS framework
 - [Heroicons](https://heroicons.com) - Beautiful icons
 
-## 📧 Contact
-
-Created by **Your Name** - [@yourusername](https://github.com/yourusername)
-
-Project Link: [https://github.com/yourusername/taskflow-app](https://github.com/yourusername/taskflow-app)
-
----
 
 ⭐ If you found this project helpful, please give it a star!
