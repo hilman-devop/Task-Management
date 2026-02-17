@@ -1,0 +1,39 @@
+# Ignore Laravel specific files
+/vendor/
+/node_modules/
+.env
+.env.backup
+.phpunit.result.cache
+Homestead.json
+Homestead.yaml
+npm-debug.log
+yarn-error.log
+
+# Ignore React/Vite specific files
+dist/
+dist-ssr/
+*.local
+
+# Logs
+*.log
+logs/
+
+# OS specific
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Database
+*.sqlite
+*.sqlite-journal
+
+# Build files
+public/build/
+public/hot
+storage/*.key
